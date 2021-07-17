@@ -32,8 +32,6 @@ function Header() {
         </a>
       </NavMenu>
       <UserImg src="/images/natta-profile.jpg" />
-      {/* <UserImg src="https://ibb.co/71w4ZYD" /> */}
-      {/* <UserImg src="https://lh3.googleusercontent.com/a-/AOh14GhPEWpoUbE" /> */}
     </Nav>
   )
 }
