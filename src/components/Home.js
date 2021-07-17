@@ -1,11 +1,13 @@
 import React from "react"
 import styled from "styled-components"
 import ImgSlider from "./ImgSlider"
+import Veiwers from "./Veiwers"
 
 function Home() {
   return (
     <Container>
       <ImgSlider />
+      <Veiwers />
     </Container>
   )
 }
